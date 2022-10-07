@@ -1,0 +1,48 @@
+body{
+    text-align: center;
+    background-color: #faebd7;
+}
+.head{
+    background-color: black;
+    color: antiquewhite;
+    margin:  -1% -0.75%;
+    padding: 0.50rem 1rem;
+    text-align: right;
+
+}
+.head h1{
+    -webkit-text-stroke: 1px red;
+    font-size: 3rem;
+    font-weight: 900;
+    margin: 1% 0;
+}
+nav{
+    background-color: bisque;
+    margin-top: revert;
+}
+a{
+    background-color: white;
+    padding: 1rem;
+    width: 20rem;
+    border: 1px solid red;
+    text-decoration: none;
+    color: black;
+    border-radius: 0.50rem;
+}
+a:hover{
+    background-color: red;
+    color: white;
+}
+#products{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.box{
+    width: 25%;
+    margin: 2rem;
+    background-color: #fffcf8;
+    padding: 1.25rem;
+    box-shadow: 0.50rem 0.50rem 0.50rem darkgray;
+    border-radius: 0.25rem;
+}

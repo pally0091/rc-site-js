@@ -1,0 +1,50 @@
+[
+  {
+    "name": "AMD Athlon 3000G Processor with Radeon Graphics",
+    "details": "Key Features Model: Athlon 3000G Speed: 3.5GHz Cache: L2: 1MB, L3: 4MB Cores-2 & Threads-4 Memory Speed: 2667MHz",
+    "pimage": "https://www.startech.com.bd/image/cache/catalog/processor/AMD/athlon-3000g/athlon-3000g-1-500x500.jpg",
+    "price": 8500
+  },
+  {
+    "name": "Intel Pentium Gold G6400 10th gen Coffee Lake Processor",
+    "details": "Key Features Model: Intel Pentium Gold G6400 Socket Supported FCLGA1200 Speed 4.00 GHz Cores- 2 & Threads- 4 4M Intel Smart Cache",
+    "pimage": "https://www.startech.com.bd/image/cache/catalog/processor/Intel/g6400/g6400-500x500.jpg",
+    "price": 6500
+  },
+  {
+    "name": "ASRock H370M-HDV 8th and 9th Gen Micro ATX Motherboard",
+    "details": "Key Features Model: H370M-HDV Supports 9th and 8th Gen Intel Core Processors Up to 2666 MHz RAM 4 Power Phase design Intel Turbo Boost 2.0",
+    "pimage": "https://www.startech.com.bd/image/cache/catalog/motherboard/asrock/h370m-hdv/h370m-hdv-box-500x500.jpg",
+    "price": 6700
+  },
+  {
+    "name": "ASRock A320M-HDV R4.0 AMD Motherboard",
+    "details": "Key Features Model: ASRock A320M-HDV R4.0 2 DIMMs, Supports DDR4 3200+(OC) 1 PCIe 3.0 x16, 1 PCIe 2.0 x1 Graphics Output : HDMI, DVI-D, D-Sub 4 SATA3, 1 Ultra M.2 (PCIe Gen3 x4 & SATA3)",
+    "pimage": "https://www.startech.com.bd/image/cache/catalog/motherboard/asrock/a320m-hdv-r4/a320m-hdv-r4-500x500.jpg",
+    "price": 7200
+  },
+  {
+    "name": "LG 22MK600M 21.5 inch IPS Full HD LED Monitor",
+    "details": "Key Features Model: 22MK600M Resolution: Full HD (1920 x 1080) Display: IPS, 75Hz, 5ms Ports: HDMI, VGA, 3.5mm Audio Out Features: Free Sync",
+    "pimage": "https://www.startech.com.bd/image/cache/catalog/monitor/lg-monitor/22mk600m/lg-22mk600m-1-500x500.jpg",
+    "price": 16200
+  },
+  {
+    "name": "ViewSonic VA2215-H 22\" Full HD Monitor",
+    "details": "Key Features Model: VA2215-H Resolution: FHD (1920 x 1080) Display: VA, 75Hz, 5ms Ports: HDMI, VGA, 3.5mm Audio Out Features: Eye Care, Flicker Free, Low Blue Light",
+    "pimage": "https://www.startech.com.bd/image/cache/catalog/monitor/viewsonic/va2215-h/va2215-h-01-500x500.jpg",
+    "price": 14200
+  },
+  {
+    "name": "PNY GeForce GTX 1650 Dual-Fan 4GB GDDR6 Graphics Card",
+    "details": "Key Features MPN: VCG16504D6DFPPB1 Model: GeForce GTX 1650 Dual-Fan 4GB Turing Shaders NVIDIA GPU Boost State-Of-The-Art-Graphics Best-In-Class Performance",
+    "pimage": "https://www.startech.com.bd/image/cache/catalog/graphics-card/pny/gtx-1650-dual-fan/gtx-1650-dual-fan-500x500.jpg",
+    "price": 19400
+  },
+  {
+    "name": "Epson LQ-590II Dot Matrix Printer",
+    "details": "Key Features Model: Epson LQ-590II Increased number of copies 24-pin, 80-column dot matrix printer USD speed of 550 characters per second Uses the same ribbons as existing models",
+    "pimage": "https://www.startech.com.bd/image/cache/catalog/printer/Epson/lq-590ii/lq-590ii-500x500.jpg",
+    "price": 24000
+  }
+]
