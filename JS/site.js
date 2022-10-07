@@ -1,4 +1,4 @@
-const list = ('/db.json');
+const list = ('db.json');
 
 const items = 
     fetch(list)
