@@ -19,8 +19,8 @@ const loadProducts = products => {
             <div>
                 <img src="${product.pimage}"
                 <div>
-                    <h3>${product.name}</h3>
-                    <p>${product.details}</p>
+                    <h3 class="text-xl text-red-800">${product.name}</h3>
+                    <p class="text-justify p-2">${product.details}</p>
                     <p>Price : ${product.price}</p>
                 </div>
             </div>
