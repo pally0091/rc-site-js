@@ -46,3 +46,12 @@ a:hover{
     box-shadow: 0.50rem 0.50rem 0.50rem darkgray;
     border-radius: 0.25rem;
 }
+footer{
+    background-color: brown;
+    margin-bottom: 0px;
+    padding-bottom: 3rem;
+    padding-top: 2rem;
+    color: #faebd7;
+    font-weight: 800;
+    border-top: 2px solid black;
+}
