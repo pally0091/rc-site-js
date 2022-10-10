@@ -1,10 +1,10 @@
-const list = ('./db.json');
+const list = ('/db.json');
 
 const items = 
     fetch(list)
         .then(res => res.json())
         .then(data => loadProducts(data))
-        console.log(data)
+        
 const loadProducts = products => {
     const productContainer = document.getElementById("products")
             
