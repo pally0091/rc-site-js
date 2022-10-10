@@ -5,7 +5,7 @@ body{
 .head{
     background-color: black;
     color: antiquewhite;
-    margin:  -1% -0.75%;
+    
     padding: 0.50rem 1rem;
     text-align: right;
 
@@ -36,14 +36,19 @@ a:hover{
 #products{
     display: flex;
     flex-wrap: wrap;
+    margin: 2rem 10%;
 }
 
 .box{
-    width: 25%;
-    margin: 2rem;
+    width: 30%;
+    margin: 1rem;
     background-color: #fffcf8;
     padding: 1.25rem;
     box-shadow: 0.50rem 0.50rem 0.50rem darkgray;
+    border-radius: 0.25rem;
+}
+.box img{
+    border: 1px solid red;
     border-radius: 0.25rem;
 }
 footer{
